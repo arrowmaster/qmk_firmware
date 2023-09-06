@@ -200,8 +200,8 @@ NOTE: These are all the same length.  If you do a search/replace
 #define _________________ADJUST_L2_________________        MU_TOG , CK_TOGG, AU_ON,   AU_OFF,  CG_NORM
 #define _________________ADJUST_L3_________________        RGB_RMOD,RGB_HUD,RGB_SAD, RGB_VAD, KC_RGB_T
 
-#define _________________ADJUST_R1_________________        KC_SEC1, KC_SEC2, KC_SEC3, KC_SEC4, KC_SEC5
-#define _________________ADJUST_R2_________________        CG_SWAP, QWERTY,  COLEMAK, DVORAK,  WORKMAN
+#define _________________ADJUST_R1_________________        KC_NO,   KC_NO,   KC_NO,   KC_NO,   KC_NO
+#define _________________ADJUST_R2_________________        CG_SWAP, QWERTY,  COLEMAK, KC_NO,   KC_NO
 #define _________________ADJUST_R3_________________        MG_NKRO, KC_MUTE, KC_VOLD, KC_VOLU, KC_MNXT
 
 // clang-format on
